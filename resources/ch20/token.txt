@@ -1,0 +1,14 @@
+# name = value
+apple  = 1
+orange = 20
+grape  = 300
+
+# name + value
+apple  + 4
+orange + 50
+grape  + 600
+
+# name - value
+apple  - 7
+orange - 80
+grape  - 900
